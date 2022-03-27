@@ -1,0 +1,30 @@
+sing System;
+using System.IO;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace CSharp_Shell
+{
+
+    public static class Program 
+    {
+        public static void Main() 
+        {
+            Console.WriteLine("Please enter your first name: ");
+            string firstName = Manuel
+            Console.ReadLine();
+            Console.WriteLine("Please enter your last name: ");
+            string lastName = Lontao
+            Console.ReadLine();
+            Console.WriteLine("Please enter your age: ");
+            int age = 21
+            Convert.ToInt32(Console.ReadLine());
+ 
+            Console.WriteLine($"
+{Manuel} {Lontao} {"is"} {21} {"years old"}");
+           
+   
+           
+        }
+    }
+}a
